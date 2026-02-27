@@ -1,0 +1,5 @@
+{
+  "name": "ConFinance",
+  "description": "A comprehensive financial management dashboard with multi-tenant support, Mercado Pago subscription simulation, and AI-powered financial insights using Gemini.",
+  "requestFramePermissions": []
+}
